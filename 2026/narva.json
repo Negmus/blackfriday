@@ -1,0 +1,14 @@
+{
+  "name": "Narva",
+  "url": "https://narva.app/#pricing",
+  "description": "Turns a topic, script or voiceover into a finished faceless YouTube video with narration, AI visuals or stock footage, captions and music",
+  "category": "media",
+  "platforms": ["web"],
+  "deal": "30% off the first month of any plan with code NARVA30 ($29 → $20.30)",
+  "pricing": "subscription",
+  "price": { "regular": 29, "sale": 20.3, "currency": "USD" },
+  "discount": 30,
+  "startDate": "2026-11-23",
+  "endDate": "2026-11-30",
+  "icon": "https://narva.app/apple-touch-icon.png"
+}
