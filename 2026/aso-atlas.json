@@ -1,0 +1,15 @@
+{
+  "name": "ASO Atlas",
+  "url": "https://asoatlas.com/",
+  "description": "App Store keyword research and rank tracking for iOS, Mac and Google Play apps, with a native Mac app and MCP for AI agents",
+  "category": "marketing",
+  "platforms": ["web", "mac"],
+  "deal": "30% off the first year of the Yearly plan",
+  "code": "BLACKWEEK30",
+  "pricing": "subscription",
+  "price": { "regular": 100, "sale": 70, "currency": "USD" },
+  "discount": 30,
+  "startDate": "2026-11-23",
+  "endDate": "2026-11-30",
+  "icon": "https://asoatlas.com/apple-touch-icon.png"
+}
